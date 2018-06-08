@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "798549946762",
+    "firebase_url": "https://fir-3f5e2.firebaseio.com",
+    "project_id": "fir-3f5e2",
+    "storage_bucket": "fir-3f5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798549946762:android:15834448f85a68fe",
+        "android_client_info": {
+          "package_name": "com.example.android.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798549946762-mhpjsdejpa0f7o310bl04s3ao9vv4llr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebase",
+            "certificate_hash": "d78e2d10217f60a04a54d71690270bf6b07503de"
+          }
+        },
+        {
+          "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEUUfyluUjAggxlYHnZzDhvDS-Y-QzWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798549946762:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798549946762-4sekutps68ipom66fp7cetvih4faqe9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.database",
+            "certificate_hash": "cdf185ed2478d177590bf72675942f664d343196"
+          }
+        },
+        {
+          "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEUUfyluUjAggxlYHnZzDhvDS-Y-QzWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798549946762-d2lrjibqql44r3c0u6p42i003voj27as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
